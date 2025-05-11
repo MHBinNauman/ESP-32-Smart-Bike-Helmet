@@ -1,6 +1,6 @@
 # IMU-Based Smart Bike Crash Detection and Response System
 
-This project demonstrates a smart crash detection system for bikers using two ESP32 modules, an MPU6050 sensor, and capacitive touch input. The modules communicate wirelessly via Bluetooth to detect sudden changes in motion and respond by triggering safety mechanisms or alerts.
+This project demonstrates a [smart crash detection system for bikers](Static/Crash Detection and Helmet Authorization System.pdf) using two ESP32 modules, an MPU6050 sensor, and capacitive touch input. The modules communicate wirelessly via Bluetooth to detect sudden changes in motion and respond by triggering safety mechanisms or alerts.
 
 ---
 
